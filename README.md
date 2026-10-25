@@ -3,7 +3,7 @@
 叶予涵的中英文个人作品集，展示数据分析、AI 应用与研究工具实践。
 
 - GitHub profile: [YeY-zi](https://github.com/YeY-zi)
-- Intended GitHub Pages URL: [yey-zi.github.io](https://yey-zi.github.io/)
+- GitHub Pages URL: [yey-zi.github.io](https://yey-zi.github.io/)
 - The site is a static HTML/CSS/JavaScript application. No account, analytics, database, API key or build dependency is required.
 
 ## Local preview
@@ -16,7 +16,7 @@ Open `http://localhost:8765`. Language choice is saved in the visitor's browser.
 
 ## GitHub Pages
 
-The GitHub repository stores the contents of `dist/` at its root. In **Settings → Pages → Build and deployment**, select **Deploy from a branch**, then **main / (root)** and save. GitHub may take several minutes to publish.
+The site files are stored at the repository root. In **Settings → Pages → Build and deployment**, select **Deploy from a branch**, then **main / (root)** and save. Changes may take several minutes to publish.
 
 The special repository `YeY-zi/YeY-zi` contains the separate GitHub profile README. It is not the website repository.
 
