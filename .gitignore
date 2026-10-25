@@ -1,0 +1,7 @@
+.openai/local-state.json
+.openai/*.log
+.env
+.env.*
+node_modules/
+__pycache__/
+*.partial
